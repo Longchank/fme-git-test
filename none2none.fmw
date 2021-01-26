@@ -1,7 +1,7 @@
 #! <?xml version="1.0" encoding="UTF-8" ?>
 #! <WORKSPACE
 #    Command-line to run this workspace:
-#        "C:\Program Files\FME2019\fme.exe" C:\Users\ag48919\HCP\Projekt\FmeGitTest\none2none.fmw
+#        "C:\Program Files\FME2019\fme.exe" C:\Users\ad71472\HCP\Documents\fme-git-test\none2none.fmw
 #              --test ""
 #              --SourceDataset_OBJ "C:\Users\ag48919\HCP\Projekt\Bank\Furniture\Barstol\grace.obj"
 #    
@@ -12,14 +12,14 @@
 #!   DESCRIPTION=""
 #!   DESTINATION="NONE"
 #!   DESTINATION_ROUTING_FILE=""
-#!   DOC_EXTENTS="1940.02 645.006"
-#!   DOC_TOP_LEFT="20 -825.008"
+#!   DOC_EXTENTS="2061.27 1028.14"
+#!   DOC_TOP_LEFT="20 -1043.76"
 #!   END_PYTHON=""
 #!   END_TCL=""
 #!   EXPLICIT_BOOKMARK_ORDER="false"
 #!   FME_BUILD_NUM="19630"
-#!   FME_DOCUMENT_GUID="7c36990b-d232-428d-8514-0491a4a1a09d"
-#!   FME_DOCUMENT_PRIORGUID="65b58851-8cf6-4812-b262-db8ff10b788b,e1802572-118c-41b8-9214-8864a17b5c1a"
+#!   FME_DOCUMENT_GUID="29427ea8-1cc7-4720-a6d7-a5958693d59f"
+#!   FME_DOCUMENT_PRIORGUID="65b58851-8cf6-4812-b262-db8ff10b788b,e1802572-118c-41b8-9214-8864a17b5c1a,7c36990b-d232-428d-8514-0491a4a1a09d"
 #!   FME_GEOMETRY_HANDLING="Enhanced"
 #!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
 #!   FME_REPROJECTION_ENGINE="FME"
@@ -28,7 +28,7 @@
 #!   HISTORY=""
 #!   IGNORE_READER_FAILURE="No"
 #!   LAST_SAVE_BUILD="FME(R) 2019.1.2.0 (20190829 - Build 19630 - WIN64)"
-#!   LAST_SAVE_DATE="2021-01-26T15:05:33"
+#!   LAST_SAVE_DATE="2021-01-26T15:10:12"
 #!   LOG_FILE=""
 #!   LOG_MAX_RECORDED_FEATURES="200"
 #!   MARKDOWN_DESCRIPTION=""
@@ -47,7 +47,7 @@
 #!   TITLE=""
 #!   USAGE=""
 #!   USE_MARKDOWN=""
-#!   VIEW_POSITION="-147.501 0"
+#!   VIEW_POSITION="515.63 106.251"
 #!   WARN_INVALID_XFORM_PARAM="Yes"
 #!   WORKSPACE_VERSION="1"
 #!   ZOOM_SCALE="100"
@@ -66,7 +66,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="false"
-#!   EXPOSABLE_ATTRS="fme_text_size string fme_type string fme_basename string multi_reader_keyword string fme_fill_color string fme_start_angle string fme_feature_type string multi_reader_id string multi_reader_type string obj_type string fme_primary_axis string fme_geometry string fme_secondary_axis string fme_rotation string fme_color string multi_reader_full_id string fme_text_string string fme_dataset string fme_sweep_angle string"
+#!   EXPOSABLE_ATTRS="multi_reader_full_id string fme_dataset string fme_color string multi_reader_type string fme_secondary_axis string fme_primary_axis string fme_fill_color string fme_text_string string fme_feature_type string fme_text_size string obj_type string fme_type string multi_reader_keyword string fme_start_angle string fme_basename string multi_reader_id string fme_sweep_angle string fme_geometry string fme_rotation string"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -450,6 +450,20 @@
 #! <CONSTANTS>
 #! </CONSTANTS>
 #! <BOOKMARKS>
+#! <BOOKMARK
+#!   IDENTIFIER="7"
+#!   NAME="GitHub SourceTree"
+#!   DESCRIPTION=""
+#!   TOP_LEFT="575.00575005750045 -15.625156251562544"
+#!   ORDER="500000000000002"
+#!   PALETTE_COLOR="Color6"
+#!   BOTTOM_RIGHT="2081.2708127081269 -1043.760437604376"
+#!   BOUNDING_RECT="575.00575005750045 -15.625156251562544 1506.2650626506265 1028.1352813528133"
+#!   STICKY="false"
+#!   COLOUR="0.20000000000000001,0.49803921568627452,0.51764705882352946,1"
+#!   CONTENTS=""
+#! >
+#! </BOOKMARK>
 #! </BOOKMARKS>
 #! <TRANSFORMERS>
 #! </TRANSFORMERS>
